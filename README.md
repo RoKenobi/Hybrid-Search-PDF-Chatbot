@@ -29,9 +29,6 @@ A production-grade Retrieval-Augmented Generation (RAG) system that answers ques
 
 1. Clone the repository
 
-    git clone https://github.com/yourusername/rag-gemini-assistant.git
-    cd rag-gemini-assistant
-
 2. Create a virtual environment
 
     python -m venv venv
